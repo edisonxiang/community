@@ -3,7 +3,7 @@
 
 Welcome to this community!
 
-This community aims to record the issues about the Ecosystem Tools for for Huawei Clouds.
+This community aims to record the issues about the Ecosystem Tools for Huawei Clouds.
 
 Here you can [submit a issue](https://github.com/edisonxiang/community/issues).
 
